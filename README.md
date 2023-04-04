@@ -14,5 +14,3 @@ My name is Rishta. I'm based in Barcelona, but I'm originally from Nepal.
 
 - 📫 How to reach me:  https://www.linkedin.com/in/rishta-g-4a4004111/ 
 
-- 😄 Pronouns: she/her
-
