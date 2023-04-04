@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**rishgrg/rishgrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Rishta. I'm based in Barcelona, but I'm originally from Nepal.
 
-Here are some ideas to get you started:
+- 📚🔭I'm currently working and doing full-stack web development course with MigraCode.🌱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on some interesting projects.
+
+- Some of my few hobbies are: 🏃‍♀️🍲🥘🛫🏝🌍🐈🐶📖
+
+- ⚡ Fun fact: I speak 5 languages. I enjoy learning new things, and recently I'm learning React. 
+
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 📫 How to reach me:  https://www.linkedin.com/in/rishta-g-4a4004111/ 
+
+- 😄 Pronouns: she/her
+
