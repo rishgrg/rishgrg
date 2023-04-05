@@ -8,7 +8,7 @@ My name is Rishta. I'm based in Barcelona, but I'm originally from Nepal.
 
 - Some of my few hobbies are: 🏃‍♀️🍲🥘🛫🏝🌍🐈🐶📖
 
-- ⚡ Fun fact: I speak 5 languages. I enjoy learning new things, and recently I'm learning React. 
+- ⚡ Fun fact: I speak 5 languages. I enjoy learning new things, and currently, I'm learning React. 
 
 - 💬 Ask me about ...
 
